@@ -21,7 +21,7 @@ A simple web app that shows the weather for any U.S. zipcode.
 
 ## 🚀 Installation
 ```bash
-git clone https://github.com/tyffoni/weather-app.git
+git clone https://github.com/Tyffoni/weather-app.git
 cd weather-app
 npm install
 npm start
