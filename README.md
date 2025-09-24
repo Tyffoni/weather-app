@@ -1,33 +1,27 @@
-Weather App
+# Weather App 🌦️
+A simple web app that shows the weather for any U.S. zipcode.
 
-A simple web application that displays the current weather for a given U.S. zipcode.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![API: OpenWeatherMap](https://img.shields.io/badge/API-OpenWeatherMap-blue)](https://openweathermap.org/api)
 
-Features
+---
 
-Enter a zipcode to get the current weather.
+## ✨ Features
+- 🌡️ Current temperature in °F/°C  
+- ☁️ Weather condition (sunny, cloudy, rainy, etc.)  
+- 📍 City and state lookup by zipcode  
 
-Displays:
+---
 
-Temperature (°F/°C)
+## 🛠️ Tech Stack
+- Frontend: HTML, CSS, JavaScript  
+- API: [OpenWeatherMap](https://openweathermap.org/api)  
 
-Weather condition (e.g., sunny, cloudy, rainy)
+---
 
-Location name (city, state)
-
-Clean, minimal interface.
-
-Tech Stack
-
-Frontend: HTML, CSS, JavaScript (or React if you used it)
-
-Backend (optional): Node.js / Express (if applicable)
-
-API: OpenWeatherMap API
- (or whichever weather API you used)
-
-Getting Started
-Prerequisites
-
-Node.js (if running with a backend)
-
-API key from OpenWeatherMap
+## 🚀 Installation
+```bash
+git clone https://github.com/tyffoni/weather-app.git
+cd weather-app
+npm install
+npm start
